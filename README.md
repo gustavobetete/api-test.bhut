@@ -10,6 +10,7 @@ Ao executar o programa, **será rodado na porta 8080**, então certifique-se que
 
 
 ## **Url de acesso:** 🔗
+O arquivo `API CARS.postman_collection.JSON` é uma collection para ser utilizado no aplicativo Postman, onde facilita a visualização dos seguintes EndPoints:
 
 #### GET: http://localhost:8080/api/listCars       **(Consome uma API Rest externa)**
 #### POST: http://localhost:8080/api/createCar     **(Consome uma API Rest externa)** 
